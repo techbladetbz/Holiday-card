@@ -1,0 +1,12 @@
+body{background-image:url('https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4OTA4MzI0ODc4NjkwMDAw/christmas-tree-gettyimages-1072744106.jpg');}
+background-repeat:no-repeat
+background-size:cover
+}
+main{
+  font-family:Cochin, serif;
+  text-align:justify;
+  width:75%;
+  margin-left:auto;
+  margin-right:auto;
+  line-height:25px;
+}
